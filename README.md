@@ -14,3 +14,4 @@ This repository assumes you have a local GPU. Because, once you start training n
 
 
 *I would like to acknowledge AUC Data Initiative for their support in the creation of this class. I would also like to thank Microsoft’s data science  experts Anushka Madwesh, Kem Ezeoke, Mark Tabladillo, Nolen Code, Taisha Ferguson for providing excellent mentorship to students in this class throughout the semester and working with them on amazing projects. Finally, I would like to thank Microsoft for providing a Microsoft Azure Sponsorship as a cloud computing resource*.
+
