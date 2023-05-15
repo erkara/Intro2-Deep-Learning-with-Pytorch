@@ -1,0 +1,1 @@
+Due to the formidable conflicts between several libraries, it is not feasible to run this project locally. Upload the provided notebook, sample_images.zip and video_source.zip to Google Colab. It will run smootly.
